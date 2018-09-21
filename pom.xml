@@ -22,8 +22,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <component.branch/>
-        <component.version>1.0${component.branch}-SNAPSHOT</component.version>
     </properties>
 
     <dependencies>
@@ -46,7 +44,6 @@
             <groupId>org.arhan</groupId>
             <artifactId>component</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <classifier>${component.branch}</classifier>
         </dependency>
     </dependencies>
 

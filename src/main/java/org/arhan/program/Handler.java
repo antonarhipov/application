@@ -12,6 +12,6 @@ public class Handler {
   @GetMapping(path = "/")
   public String hello() {
     component.foo();
-    return "hello";
+    return "hello2";
   }
 }

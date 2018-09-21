@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.arhan</groupId>
     <artifactId>local-artifact-installer</artifactId>
-    <version>${SomeVersion}</version>
+    <version>1.0.0</version>
 
     <build>
         <plugins>
